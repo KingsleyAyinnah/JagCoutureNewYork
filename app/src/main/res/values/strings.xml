@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jag Couture New York</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="x">X</string>
+    <string name="disclaimer_text"><![CDATA[This app was developed by DreemTec (www.dreemtec.com) for Jag Couture Limited, London, United Kingdom. All copyrights for this app belong to Jag Couture Limited, London, United Kingdom.]]></string>
+</resources>
